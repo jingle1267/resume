@@ -11,7 +11,7 @@
  - 靳振国 / 男 / 1990 
  - 本科 / 南阳理工学院 / 软件工程 
  - 工作年限： 3年
- - 技术博客： http://ihongqiqu.com.com
+ - 技术博客： http://ihongqiqu.com
  - Github： http://github.com/jingle1267
 
  - 期望职位： Android高级程序员，应用架构师
@@ -21,6 +21,11 @@
 ---
 
 # 工作经历
+
+## 北京京东尚科信息技术有限公司 （2014年10月 ~ 至今）
+
+### 拍拍APP 
+2014年10月我加入了拍拍研发部门，开始参与拍拍APP的Android客户端的开发。
 
 ## 北京尤尼信息科技有限公司 （ 2014年1月 ~ 2014年9月 ）
 
@@ -42,10 +47,10 @@
 ## 深圳市维尚视界立体显示技术有限公司 （ 2012年3月 ~ 2012年8月 ）
 
 ### 立体空间 
-2011年4月，我加入立体空间应用开发团队，在团队中主要负责主界面“N面体”和咨询模块的开发，以及对其他同事的模块进行整合。我学习并使用OpenGL ES，完成了主界面N面体的开发。通过对其他同事模块代码的阅读，成功完成功能模块的整合。
+2012年4月，我加入立体空间应用开发团队，在团队中主要负责主界面“N面体”和咨询模块的开发，以及对其他同事的模块进行整合。我学习并使用OpenGL ES，完成了主界面N面体的开发。通过对其他同事模块代码的阅读，成功完成功能模块的整合。
 
 ### 3DVPlayer 
-2011年3月，刚到公司我就加入了3DVplayer播放器开发小组。作为UI的主要开发人员，我不但完成了可扩展自定义的工具栏和自定义控件实现网络推荐图片展示，还很好的实现把其他的模块整合到3DVplayer应用中。
+2012年3月，刚到公司我就加入了3DVplayer播放器开发小组。作为UI的主要开发人员，我不但完成了可扩展自定义的工具栏和自定义控件实现网络推荐图片展示，还很好的实现把其他的模块整合到3DVplayer应用中。
 
 ---
 
@@ -77,7 +82,7 @@
 以下均为我熟练使用的技能
 
 - Android开发： Android SDK / Java / Socket / HTTP / JSON / NDK
-- 三方开源库： Android-Universal-Image-Loader / Android-PullToRefresh / NineOldAndroids / SlidingMenu 
+- 三方开源库： Android-Universal-Image-Loader / Android-PullToRefresh / NineOldAndroids / SlidingMenu / GSON
 - 数据库相关： SQLite / MySQL / Oracle 
 - 版本管理： Git / Svn 
 - 云和开放平台： Facebook / Twitter / Google+ / 微博开放平台 / LinkedIn / Instagram / VK 
