@@ -1,6 +1,6 @@
 # 联系方式
 
-- 手机  ：18700636967 
+- 手机  ：18600636967 
 - Email：jinzhenguo@126.com 
 - QQ   ：925986445 
 
@@ -14,8 +14,8 @@
  - 技术博客： http://ihongqiqu.com
  - Github： http://github.com/jingle1267
 
- - 期望职位： Android高级程序员，应用架构师
- - 期望薪资： 税前月薪15k~20k
+ - 期望职位： Android高级工程师，应用架构师
+ - 期望薪资： 税前月薪20k~25k
  - 期望城市： 北京
 
 ---
@@ -57,14 +57,14 @@
 # 作品
 
  - [KeeeWeee](https://play.google.com/store/apps/details?id=com.keeeweee) (尤尼产品)
- - [云桌面](http://209.141.43.193/client/res/update/271312_yun-zhuo_15000_v2.0.1.apk) (丰华合瑞产品)
+ - [云桌面](http://shouji.baidu.com/soft/item?docid=4499996&from=web_alad_2_2) (丰华合瑞产品)
  - [FloatView](https://github.com/jingle1267/github_super_demos/raw/master/myapp/FloatViewDemo.apk) (个人作品)
 
 ---
 
 ## 开源项目
 
- - [android-tuils](https://github.com/jingle1267/android-utils) : 工具类的使用能给开发过程中提供很大的便利，故根据开发中用到的碰到的问题编写和整理的Android常用的工具类。
+ - [android-utils](https://github.com/jingle1267/android-utils) : 工具类的使用能给开发过程中提供很大的便利，故根据开发中用到的碰到的问题编写和整理的Android常用的工具类。
  - [FloatViewDemo](https://github.com/jingle1267/FloatViewDemo) : 这是一个模仿Iphone的AssistiveTouch功能的一个Android应用，此应用实现了AssistiveTouch的大部分功能。
  - [BSPatch](https://github.com/jingle1267/BSPatch) : 此工程是一个差分升级（增量升级）的例子，是我搜索研究整理好分享到Github上的可以减轻文件服务器压力和节省服务器流量的一个Demo。
 
