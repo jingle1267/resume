@@ -15,7 +15,7 @@
  - Github： http://github.com/jingle1267
 
  - 期望职位： Android高级工程师，应用架构师
- - 期望薪资： 税前月薪20k~25k
+ - 期望薪资： 面谈
  - 期望城市： 北京
 
 ---
