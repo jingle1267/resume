@@ -55,10 +55,10 @@
 ---
 
 # 作品
-
- - [KeeeWeee](https://play.google.com/store/apps/details?id=com.keeeweee) (尤尼产品)
- - [云桌面](http://shouji.baidu.com/soft/item?docid=4499996&from=web_alad_2_2) (丰华合瑞产品)
- - [FloatView](https://github.com/jingle1267/github_super_demos/raw/master/myapp/FloatViewDemo.apk) (个人作品)
+ - [拍拍](http://www.wandoujia.com/apps/com.jd.paipai) (京东拍拍客户端)
+ - [KeeeWeee](https://play.google.com/store/apps/details?id=com.keeeweee) (尤尼主推产品)
+ - [e桌面](http://www.wandoujia.com/apps/com.fhhr.launcherEx) (丰华合瑞主推产品)
+ - [FloatView](https://github.com/jingle1267/github_super_demos/raw/master/myapp/FloatViewDemo.apk) (个人小作品)
 
 ---
 
@@ -67,6 +67,7 @@
  - [android-utils](https://github.com/jingle1267/android-utils) : 工具类的使用能给开发过程中提供很大的便利，故根据开发中用到的碰到的问题编写和整理的Android常用的工具类。
  - [FloatViewDemo](https://github.com/jingle1267/FloatViewDemo) : 这是一个模仿Iphone的AssistiveTouch功能的一个Android应用，此应用实现了AssistiveTouch的大部分功能。
  - [BSPatch](https://github.com/jingle1267/BSPatch) : 此工程是一个差分升级（增量升级）的例子，是我搜索研究整理好分享到Github上的可以减轻文件服务器压力和节省服务器流量的一个Demo。
+ - [AutoScrollPageView](https://github.com/jingle1267/AutoScrollPageView) : 实现ViewPager自动播放和无限循环滚动的效果，解决少于4屏时不能正常显示的BUG。 
 
 ---
 
@@ -75,17 +76,18 @@
 - [Android切图之不规则形状-4 [译]](http://ihongqiqu.com/blog/2014/08/02/irregular-shapes-part-4/)
 - [Android切图之不规则形状-1 [译]](http://ihongqiqu.com/blog/2014/07/22/test-github2/)
 - [快速安装APK到多台设备](http://ihongqiqu.com/blog/2014/07/22/test-github/)
+- [Ant批量打包APK](http://ihongqiqu.com/blog/2015/05/18/make-packages/)
 
 ---
 
 # 技能清单
 以下均为我熟练使用的技能
 
-- Android开发： Android SDK / Java / Socket / HTTP / JSON / NDK
-- 三方开源库： Android-Universal-Image-Loader / Android-PullToRefresh / NineOldAndroids / SlidingMenu / GSON
+- Android开发： Android SDK / Java  / HTTP / Socket / JSON / NDK
+- 三方开源库： UIL / Volley / Glide / ButterKnife / EventBus / Android-PullToRefresh / NineOldAndroids /  GSON
 - 数据库相关： SQLite / MySQL / Oracle 
-- 版本管理： Git / Svn 
-- 云和开放平台： Facebook / Twitter / Google+ / 微博开放平台 / LinkedIn / Instagram / VK 
+- 版本管理： Git / SVN
+- 云和开放平台： 微信 / 微博 / Facebook / Twitter / Google+ / LinkedIn / Instagram / VK 
 
 ---
 
