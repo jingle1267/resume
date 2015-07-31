@@ -24,8 +24,11 @@
 
 ## 北京京东尚科信息技术有限公司 （2014年10月 ~ 至今）
 
+### 拍拍二手
+2015年6月开始负责拍拍二手Android客户端的开发。
+
 ### 拍拍APP 
-2014年10月我加入了拍拍无限研发部门，开始参与拍拍APP的Android客户端的开发。
+2014年10月我加入了拍拍无限研发部门，开始参与拍拍APP的Android客户端的开发。我从修改多图显示速度慢的问题入手，通过使用和合理配置UIL使显示效果有很大提高；接下来我开始重构首页和负责首页需求功能的开发，在保证稳定性的情况下也实现了首页的流畅性；紧接着，我开始加入电商核心开发支付流程，通过对N手代码的阅读和流程的梳理，实现立即购买和购物车下单的逻辑拆分，达到流程清晰和逻辑严密的要求，有效减少了支付流程中的bug和提高了支付流程的可维护性；
 
 ## 北京尤尼信息科技有限公司 （ 2014年1月 ~ 2014年9月 ）
 
@@ -55,6 +58,8 @@
 ---
 
 # 作品
+
+ - [拍拍二手](http://fir.im/pp2) (京东拍拍二手项目)
  - [拍拍](http://www.wandoujia.com/apps/com.jd.paipai) (京东拍拍客户端)
  - [KeeeWeee](https://play.google.com/store/apps/details?id=com.keeeweee) (尤尼主推产品)
  - [e桌面](http://www.wandoujia.com/apps/com.fhhr.launcherEx) (丰华合瑞主推产品)
@@ -77,6 +82,7 @@
 - [Android切图之不规则形状-1 [译]](http://ihongqiqu.com/blog/2014/07/22/test-github2/)
 - [快速安装APK到多台设备](http://ihongqiqu.com/blog/2014/07/22/test-github/)
 - [Ant批量打包APK](http://ihongqiqu.com/blog/2015/05/18/make-packages/)
+- [Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
 
 ---
 
