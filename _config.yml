@@ -1,0 +1,8 @@
+title: 靳振国简历
+description: Stay hungry, stay foolish
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
