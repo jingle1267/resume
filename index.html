@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>靳振国简历</title>
+    <meta property="og:title" content="简历" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="Stay hungry, stay foolish" />
+    <meta property="og:description" content="Stay hungry, stay foolish" />
+    <link rel="canonical" href="http://94275.cn/resume/" />
+    <meta property="og:url" content="http://94275.cn/resume/" />
+    <meta property="og:site_name" content="靳振国简历" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="//libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+    <script src="js/marked.js"></script>
+</head>
+<body>
+<section class="page-header">
+    <h1 class="project-name">靳振国简历</h1>
+    <h2 class="project-tagline">Stay hungry, stay foolish</h2>
+</section>
+<section id="content" class="main-content"></section>
+<!--<div id="content"></div>-->
+<script>
+    var htmlobj = $.ajax({url: "README.md", async: false});
+    console.log(htmlobj.responseText)
+    document.getElementById('content').innerHTML =
+        marked(htmlobj.responseText);
+</script>
+</body>
+</html>
